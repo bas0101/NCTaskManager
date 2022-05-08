@@ -6,5 +6,6 @@ public class Main {
 	{
 		System.out.println("Hello");
 		System.out.println("1234");
+		System.out.println("1+5");
 	}
 }
